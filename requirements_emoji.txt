@@ -1,7 +1,0 @@
-kivy==2.3.0
-# Kivy framework untuk GUI aplikasi
-
-# Opsional untuk emoji support yang lebih baik di Linux:
-# sudo apt-get install fonts-noto-color-emoji (Ubuntu/Debian)
-# sudo dnf install google-noto-emoji-color-fonts (Fedora)
-# sudo pacman -S noto-fonts-emoji (Arch)
